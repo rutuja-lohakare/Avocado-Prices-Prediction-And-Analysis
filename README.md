@@ -6,7 +6,9 @@ This repository contains
   1. Exploratory Data Analysis to predict the average price of Avocados
   2. Application of Data Mining and Business Intelligence / Machine Learning Algorithms (Linear Regression and Decision Tree Regression) to study the pattern of Avocado prices.
   
-I have also performed data visualization using R. To see the plots/detailed steps, please refer the document.
+For exploratory data analysis, I have performed Univariate Analysis by plotting Histograms, Density Comparision Plots, Box plots and Line plots. In addition, I performed multivariate analysis by producing a correlation heatmap and Principle Component Analysis. I also used Regression diagnostic plots and Decision trees to visualise and evaluate the data, and I summarised the accuracy by calculating Root Mean Squared Error, Mean Squared Error, and Mean Absolute Error. 
+
+Please see the document for plots, comprehensive procedures and the results. 
 
 ## Problem Statement
 Avocado has become one of the world's trendiest foods. As the poster child of millennial healthy eating, this superfood is now a mainstay for foodies everywhere. Avocado prices have rocketed in recent years by up to 129%, with the average national price of a single Hass avocado reaching $2.10 in 2019, almost doubling in just one year. The main objectives of this study were to predict avocado prices using the data gathered by Hass Avocado Board (HAB) - a trade organization that provides industry professionals with research and data on avocado prices around the world. Next is to find out pattern in attributes that affect the prices of avocados. 
