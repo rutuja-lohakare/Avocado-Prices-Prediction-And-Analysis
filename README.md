@@ -7,21 +7,21 @@ Avocado has become one of the world's trendiest foods. As the poster child of mi
 The data represents weekly 2018 retail scan data for National retail volume (units) and price. Retail scan data comes directly from retailers’ cash registers based on actual retail sales of Hass avocados. Starting in 2013, the table reflects an expanded, multi-outlet retail data set. Multi-outlet reporting includes an aggregation of the following channels: grocery, mass, club, drug, dollar and military. The Average Price (of avocados) in the table reflects a per unit (per avocado) cost, even when multiple units (avocados) are sold in bags. The Product Lookup codes (PLU’s) in the table are only for Hass avocados. Other varieties of avocados (ex: greenskins) are not included in this table.
 Link to dataset: https://www.kaggle.com/timmate/avocado-prices-2020
 
-Predicted attribute: Prices of avocados. 
+Predicted attribute: Prices of avocados.
 Number of instances: 33045
 Number of Attributes: 13
 Attribute Information:
-1.	date: The date of the observation.
-2.	average_price: The average price of a single avocado.
-3.	total_volume: Total number of avocados sold.
-4.	4046: Total number of avocados with PLU 4046 sold.
-5.	4225: Total number of avocados with PLU 4225 sold.
-6.	4770: Total number of avocados with PLU 4770 sold.
-7.	total_bags: Total number of bags sold.
-8.	small_bags: Total number of small bags sold.
-9.	large_bags: Total number of large bags sold.
-10.	xlarge_bags: Total number of extra-large bags sold.
-11.	type: Organic or conventional.
-12.	year: The year of observation.
-13.	geography: The city or region of the observation.
-Missing Attribute Values: None
+  1.	date: The date of the observation.
+  2.	average_price: The average price of a single avocado.
+  3.	total_volume: Total number of avocados sold.
+  4.	4046: Total number of avocados with PLU 4046 sold.
+  5.	4225: Total number of avocados with PLU 4225 sold.
+  6.	4770: Total number of avocados with PLU 4770 sold.
+  7.	total_bags: Total number of bags sold.
+  8.	small_bags: Total number of small bags sold.
+  9.	large_bags: Total number of large bags sold.
+  10.	xlarge_bags: Total number of extra-large bags sold.
+  11.	type: Organic or conventional.
+  12.	year: The year of observation.
+  13.	geography: The city or region of the observation.
+  Missing Attribute Values: None
