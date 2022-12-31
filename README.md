@@ -4,7 +4,8 @@
 
 This repository contains 
   1. Exploratory Data Analysis to predict the average price of Avocados
-  2. Application of Data Mining and Business Intelligence / Machine Learning Algorithms (Linear Regression and Decision Tree Regression) to study the pattern of Avocado prices
+  2. Application of Data Mining and Business Intelligence / Machine Learning Algorithms (Linear Regression and Decision Tree Regression) to study the pattern of Avocado prices.
+  
 I have also performed data visualization using R. To see the plots/detailed steps, please refer the document.
 
 ## Problem Statement
