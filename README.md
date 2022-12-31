@@ -1,4 +1,4 @@
-# Avocado Price Predication
+# Avocado Prices
 
 ## Problem Statement
 Avocado has become one of the world's trendiest foods. As the poster child of millennial healthy eating, this superfood is now a mainstay for foodies everywhere. Avocado prices have rocketed in recent years by up to 129%, with the average national price of a single Hass avocado reaching $2.10 in 2019, almost doubling in just one year. The main objectives of this study were to predict avocado prices using the data gathered by Hass Avocado Board (HAB) - a trade organization that provides industry professionals with research and data on avocado prices around the world. Next is to find out pattern in attributes that affect the prices of avocados. 
